@@ -7,8 +7,6 @@ This project aims to analyze online retail transaction data from the **Online Re
 
 Through this approach, the project helps to understand customer behavior and predict customer types based on their transaction patterns.
 
----
-
 ## Dataset
 
 - **Dataset Source:** [Kaggle - Online Retail II](https://www.kaggle.com/datasets/denizcanoguz/online-retail-ii)
@@ -26,8 +24,6 @@ Through this approach, the project helps to understand customer behavior and pre
 - `Customer ID`: Unique ID for each customer
 - `Country`: Country of the customer
 
----
-
 ## Clustering - Customer Segmentation with KMeans
 
 ### Objective:
@@ -38,8 +34,6 @@ To group customers into different segments based on their shopping behavior, all
 - **Features Used:** RFM Analysis (Recency, Frequency, Monetary).
 - **Model:** KMeans Clustering.
 - **Evaluation:** Using the Silhouette Score to determine the optimal number of clusters.
-
----
 
 ## Classification - Building a Classification Model
 
